@@ -1,14 +1,14 @@
 {
-  "name": "Rudhra",
+  "name": "inrl",
   "version": "7.3.6",
-  "description": "Rudhra is the Modified Version of WhatsAsena, Made By @prince-rudh with Baileys.",
-  "main": "./Rudhra/bot.js",
+  "description": "Rudhra is the Modified Version of WhatsAsena, Made By @inrlbots with Baileys.",
+  "main": "./inrl/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prince-rudh/Rudhra.git"
+    "url": "git+https://github.com/inrlcodings/Inrlgit"
   },
   "keywords": [
     "whatsapp",
@@ -21,9 +21,9 @@
   "developer": "@TOXIC-DEVIL / @prince-rudh",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/prince-rudh/Rudhra/issues"
+    "url": "https://github.com/inrlcodings/Inrl/issues"
   },
-  "homepage": "https://github.com/prince-rudh/Rudhra#readme",
+  "homepage": "https://github.com/inrlcodings/Inrl#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
